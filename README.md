@@ -12,3 +12,7 @@
 - [x] [Task 1](/ex_2/part-1.exs)
 - [x] [Task 2](/ex_2/part-2.exs)
 
+### Assignment 3
+
+- [x] [Task 1](/ex_3/part-1.exs)
+- [x] [Task 2](/ex_3/part-2.exs)
