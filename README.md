@@ -27,3 +27,7 @@
 - [x] [Task 1](/ex_5/part-1.ex)
 - [x] [Task 2](/ex_5/part-2.ex)
 - [x] [Task 3](/ex_5/part-3.ex)
+
+### Assignment 6
+
+- [x] [Task 1](/ex_6/part-1.ex)
