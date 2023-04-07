@@ -35,3 +35,7 @@
 ### Assignment 7
 
 - [x] [Task 1](/ex_7/part-1.ex)
+
+### Assignment 8
+
+- [x] [Task 1](/ex_8/part-1.ex)
