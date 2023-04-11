@@ -39,3 +39,8 @@
 ### Assignment 8
 
 - [x] [Task 1](/ex_8/part-1.ex)
+
+### Assignment 9
+
+- [x] [Chat app](/ex_9/chat-app.ex)
+- [x] [Chat app manual](/ex_9/chat-app.md)
