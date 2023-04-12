@@ -44,3 +44,7 @@
 
 - [x] [Chat app](/ex_9/chat-app.ex)
 - [x] [Chat app manual](/ex_9/chat-app.md)
+
+### Assignment 10
+
+- [x] [REST API with Elixir/Phoenix](/books_api/)
